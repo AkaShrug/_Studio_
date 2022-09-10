@@ -11,12 +11,7 @@ Join [here](https://discord.gg/JAeB5jGdcn) for more discussions, questions, sugg
 _____________________________________________________________________________________________________________________________
 
 This is the release of `HoYoStudio`, Modded AssetStudio that should work on:
-```
-- Genshin Impact.
-- Honkai Impact 3rd.
-- Honkai: Star Rail.
-- Tears of Themis.
-```
+
 
 Note: Requires Internet connection to fetch asset_index jsons.
 _____________________________________________________________________________________________________________________________
